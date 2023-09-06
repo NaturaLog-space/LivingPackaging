@@ -9,6 +9,9 @@ Live Packaging that Fruits! After you receive your package, spray your packaging
 
 - Molds of the packaging are made
 - Pack packaging mold with mycelium substrate such as sterilized hemp, straw, wood chips, wood fiber, other cellulosic materials.
+- For none food packaging, calcium hydroxide solution with straw.
+- https://patents.google.com/patent/US3810327A/en?q=(growing+mushroom)&oq=growing+mushroom&page=1
+- https://www.youtube.com/watch?v=1xHD8XHcYxY&ab_channel=FreshCapMushrooms
 
 ## Self Healing Mycelium Material
 
