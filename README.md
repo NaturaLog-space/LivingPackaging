@@ -4,6 +4,8 @@ Live Packaging that Fruits! After you receive your package, spray your packaging
 - Edible mushrooms are harvested right from the live packaging!
 - Spray daily and harvest the mushrooms within few weeks.
 - Compost mycelium after harvest.
+- "Eat your packaging"
+- "Take a Bite Out of Waste"
 
 ## Mushroom Packaging Forming
 
