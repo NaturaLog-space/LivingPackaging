@@ -29,7 +29,9 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3755185/
 
 The Agar is blended into a hydrogel after setting into a solid gel.
 The Agar is created into a foam containing liquid culture using a siphon
+Charge siphon with CO2 30-70% and O2 70%-CO2
 The stable foam is left for mycelium to grow into a mycelial mass.
+
 
 
 ## Grow Chamber
