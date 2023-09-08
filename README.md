@@ -22,6 +22,15 @@ During transit the mycelium may break if dropped. The gaps and cracks are filled
 
 - Self healing living packaging
 
+## Experimental Packaging
+
+Hydrogel foam substrates for growing packaging material.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3755185/
+
+The Agar is blended into a hydrogel after setting into a solid gel.
+The Agar is created into a foam containing liquid culture using a siphon
+The stable foam is left for mycelium to grow into a mycelial mass.
+
 
 ## Grow Chamber
 
