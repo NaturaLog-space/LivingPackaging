@@ -6,6 +6,7 @@ Live Packaging that Fruits! After you receive your package, spray your packaging
 - Compost mycelium after harvest.
 - "Eat your packaging"
 - "Take a Bite Out of Waste"
+- https://www.sciencenews.org/article/vegan-leather-fungi-repair-mycelium
 
 ## Mushroom Packaging Forming
 
